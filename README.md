@@ -19,5 +19,5 @@ This is a simple and interactive Report Card Generator built using HTML, CSS, an
 - JavaScript – For logic (calculations, validations, grading)
 
 # Images
-![image alt]()
-![image alt]()
+![image alt](https://github.com/AnkitPal2204/MarksReportCard_Generator/blob/498cb0e1043dce7b1ce98871bf08276e11fd1c58/Screenshot%202025-07-04%20190217.png)
+![image alt](https://github.com/AnkitPal2204/MarksReportCard_Generator/blob/498cb0e1043dce7b1ce98871bf08276e11fd1c58/Screenshot%202025-07-04%20190158.png)
